@@ -1,6 +1,6 @@
 author: Chev Kodama
 
-ALL OTHER INFORMATION IN manuals/user.pdf USERS MANUAL
+ALL OTHER INFORMATION IN manuals/manual.pdf USERS MANUAL
 
 Battleship Directory Contents:
 	Directories
