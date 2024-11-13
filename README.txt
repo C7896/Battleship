@@ -1,5 +1,7 @@
 author: Chev Kodama
 
+ALL OTHER INFORMATION IN manuals/user.pdf USERS MANUAL
+
 Battleship Directory Contents:
 	Directories
 	- src (source code)
